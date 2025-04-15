@@ -1,1 +1,1 @@
-Este repositório contém a implementação de difirentes métodos para a classe Lista.
+Este repositório contém a implementação de diferentes métodos para a classe Lista.
